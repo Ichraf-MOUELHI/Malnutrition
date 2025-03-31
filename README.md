@@ -15,6 +15,8 @@ Ce notebook vise à :
 2. **Analyse exploratoire des fichiers**
    - Analyse du fichier *population*
    - Analyse du fichier *disponibilité alimentaire*
+   - Analyse du fichier *aide alimentaire*
+   - Analyse du fichier *sous-nutrition*
 3. **Nettoyage et traitement des données**
 4. **Fusion et mise en cohérence des sources**
 5. **Visualisations et interprétations**
